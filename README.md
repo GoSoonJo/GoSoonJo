@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <img src="https://img.shields.io/badge/Java-#2F2625?style=flat&logo=coffeescript&logoColor=white"/>
+
 <!--
 **GoSoonJo/GoSoonJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
